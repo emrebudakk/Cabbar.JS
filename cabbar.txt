@@ -1,0 +1,6 @@
+1.Musteri 5 yildan fazla ise butun araclarina bakim yapilir.
+2.Musteri 5 yildan fazla degilse aracinin markasi BMW VW AUDI mi diye sorulur.
+3.Musteri araci bu modallere uyuyor ise rengi kirmizi veya siyah mi diye sorulur.
+4.Arac 2010-2019 kirmizi veya 2020 siyah BMW mi diye sorulur.
+5.Arac 2005-2010 veya 2014-2020 Audi mi diye sorulur
+6.Arac 2001-2018 VW mi diye sorulur 
